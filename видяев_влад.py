@@ -1,0 +1,6 @@
+import math
+a = int(input())
+b = int(input())
+c = a**2 + b**2
+d = math.sqrt(c) #гипотенуза
+print("Гипотенуза = ",d)
